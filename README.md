@@ -1,3 +1,4 @@
 # hello-world
-just test projrct
-please follow me！
+just a test project!
+
+please follow me!
